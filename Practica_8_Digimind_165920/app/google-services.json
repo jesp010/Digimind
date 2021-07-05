@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1099334696939",
+    "project_id": "solis-juan-digimind",
+    "storage_bucket": "solis-juan-digimind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099334696939:android:52a0317accd5c31a0c63ae",
+        "android_client_info": {
+          "package_name": "solis.juan.digimind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099334696939-o45613rcfe0molmhu23sm6erea9mjchs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOo_VrDH5rqE35GNU6_bN7Hj6vbORvzss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099334696939-o45613rcfe0molmhu23sm6erea9mjchs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
