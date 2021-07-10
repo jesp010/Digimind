@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1099334696939-730r5m9g9qb1848q9teq2v9v0eg5naki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "solis.juan.digimind",
+            "certificate_hash": "e3a9a2111467b8a5dd8a0f863e4294731f10995a"
+          }
+        },
+        {
           "client_id": "1099334696939-o45613rcfe0molmhu23sm6erea9mjchs.apps.googleusercontent.com",
           "client_type": 3
         }
